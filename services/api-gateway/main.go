@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"ride-sharing/shared/env"
+	"github.com/TaushifReza/go-micro-ride-sharing/shared/env"
 )
 
 var (

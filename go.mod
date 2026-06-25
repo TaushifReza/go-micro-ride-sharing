@@ -1,6 +1,6 @@
-module ride-sharing
+module github.com/TaushifReza/go-micro-ride-sharing
 
-go 1.23.0
+go 1.25.4
 
 require (
 	google.golang.org/grpc v1.69.4
